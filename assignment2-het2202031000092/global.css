@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-airbnb-cereal-app: "Airbnb Cereal App";
+  --font-sf-pro-display: "SF Pro Display";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --light-frame-color: #f8f9fa;
+  --light-bg-color: #fff;
+  --light-primary-color: #5b9ee1;
+  --light-action-color: #f87265;
+  --light-sub-text-color: #707b81;
+  --light-text-color: #1a2530;
+  --color-aliceblue: #e5eef7;
+  --color-lightsteelblue: #c0e0ff;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-base: 16px;
+  --gap-xs: 12px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-sm: 14px;
+  --padding-5xs: 8px;
+  --padding-7xs: 6px;
+  --padding-base: 16px;
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-38xl: 57px;
+  --padding-xl: 20px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-3xl: 22px;
+  --br-21xl: 40px;
+  --br-base: 16px;
+  --br-31xl: 50px;
+  --br-5xl: 24px;
+  --br-3xl-5: 22.5px;
+  --br-12xs-7: 0.7px;
+  --br-11xs: 2px;
+}

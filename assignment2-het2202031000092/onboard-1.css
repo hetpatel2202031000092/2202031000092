@@ -1,0 +1,209 @@
+.action2,
+.time2 {
+  position: absolute;
+}
+.time2 {
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.action2 {
+  top: calc(50% - 8px);
+  left: 24.9px;
+  width: 30px;
+  height: 18px;
+}
+.battery-icon2 {
+  position: absolute;
+  top: calc(50% - 5.75px);
+  right: 0;
+  width: 24.5px;
+  height: 11.5px;
+  object-fit: cover;
+}
+.combined-shape-icon2,
+.wi-fi-icon2 {
+  position: relative;
+  width: 17.1px;
+  height: 10.7px;
+}
+.wi-fi-icon2 {
+  width: 15.4px;
+  height: 11.1px;
+}
+.container2 {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 9.5px;
+  width: 67px;
+  height: 11.5px;
+}
+.iphone-xs-bars-status-de2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 44px;
+}
+.nike-icon {
+  position: absolute;
+  top: 193px;
+  left: 20px;
+  border-radius: var(--br-11xs);
+  width: 335px;
+  height: 116px;
+}
+.onboard-1-child,
+.onboard-1-item {
+  position: absolute;
+  top: 146px;
+  left: 20px;
+  width: 315px;
+  height: 311px;
+}
+.onboard-1-item {
+  top: -182px;
+  left: 194px;
+  border-radius: 50%;
+  border: 90px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 389px;
+  height: 389px;
+}
+.digital-sketches-prev-ui-icon {
+  position: absolute;
+  top: 127.4px;
+  left: 31.2px;
+  width: 343.8px;
+  height: 193.6px;
+  object-fit: contain;
+  opacity: 0.3;
+}
+.digital-sketches-prev-ui-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360.4px;
+  height: 256.9px;
+  object-fit: contain;
+}
+.digital-sketches-prev-ui-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 321px;
+}
+.smart-gorgeous,
+.start-journey-with {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.start-journey-with {
+  top: 0;
+  line-height: 56px;
+  font-weight: 500;
+  width: 337px;
+}
+.smart-gorgeous {
+  top: 120px;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  color: var(--light-sub-text-color);
+  width: 322px;
+}
+.group-parent7,
+.start-journey-with-nike-parent {
+  position: absolute;
+  top: 355px;
+  left: 20px;
+  width: 337px;
+  height: 184px;
+}
+.group-parent7 {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 539px;
+}
+.get-started {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.get-started-wrapper,
+.group-child15,
+.group-child16,
+.group-child17 {
+  position: absolute;
+  top: 0;
+  background-color: var(--light-primary-color);
+}
+.get-started-wrapper {
+  left: 170px;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-13xl);
+}
+.group-child15,
+.group-child16,
+.group-child17 {
+  left: 0;
+  border-radius: var(--br-base);
+  width: 35px;
+  height: 5px;
+}
+.group-child16,
+.group-child17 {
+  left: 43px;
+  background-color: var(--color-aliceblue);
+  width: 8px;
+}
+.group-child17 {
+  left: 59px;
+}
+.frame-parent14,
+.rectangle-parent5 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 67px;
+  height: 5px;
+}
+.frame-parent14 {
+  top: 585px;
+  left: 20px;
+  width: 335px;
+  height: 54px;
+  font-size: var(--font-size-lg);
+  color: var(--light-bg-color);
+}
+.group-parent6 {
+  position: absolute;
+  top: 133px;
+  left: 0;
+  width: 375px;
+  height: 639px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-airbnb-cereal-app);
+}
+.onboard-1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--light-frame-color);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--light-text-color);
+  font-family: var(--font-sf-pro-display);
+}

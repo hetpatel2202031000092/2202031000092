@@ -1,0 +1,81 @@
+.action3,
+.time3 {
+  position: absolute;
+}
+.time3 {
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.action3 {
+  top: calc(50% - 8px);
+  left: 24.9px;
+  width: 30px;
+  height: 18px;
+}
+.battery-icon3 {
+  position: absolute;
+  top: calc(50% - 5.75px);
+  right: 0;
+  width: 24.5px;
+  height: 11.5px;
+  object-fit: cover;
+}
+.combined-shape-icon3,
+.wi-fi-icon3 {
+  position: relative;
+  width: 17.1px;
+  height: 10.7px;
+}
+.wi-fi-icon3 {
+  width: 15.4px;
+  height: 11.1px;
+}
+.container3 {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 9.5px;
+  width: 67px;
+  height: 11.5px;
+}
+.iphone-xs-bars-status-de3 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 44px;
+}
+.oxy-boots {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+.logo {
+  position: absolute;
+  top: 388px;
+  left: 106px;
+  width: 162px;
+  height: 36px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-airbnb-cereal-app);
+}
+.splash {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  height: 812px;
+  overflow: hidden;
+  background-image: url(./public/splash@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--light-bg-color);
+  font-family: var(--font-sf-pro-display);
+}

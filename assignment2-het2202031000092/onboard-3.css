@@ -1,0 +1,209 @@
+.action4,
+.time4 {
+  position: absolute;
+}
+.time4 {
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.action4 {
+  top: calc(50% - 8px);
+  left: 24.9px;
+  width: 30px;
+  height: 18px;
+}
+.battery-icon4 {
+  position: absolute;
+  top: calc(50% - 5.75px);
+  right: 0;
+  width: 24.5px;
+  height: 11.5px;
+  object-fit: cover;
+}
+.combined-shape-icon4,
+.wi-fi-icon4 {
+  position: relative;
+  width: 17.1px;
+  height: 10.7px;
+}
+.wi-fi-icon4 {
+  width: 15.4px;
+  height: 11.1px;
+}
+.container4 {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 9.5px;
+  width: 67px;
+  height: 11.5px;
+}
+.iphone-xs-bars-status-de4 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 44px;
+}
+.nike-icon1 {
+  position: absolute;
+  top: 193px;
+  left: 20px;
+  border-radius: var(--br-11xs);
+  width: 335px;
+  height: 116px;
+}
+.onboard-3-child,
+.onboard-3-item {
+  position: absolute;
+  top: 146px;
+  left: 20px;
+  width: 315px;
+  height: 311px;
+}
+.onboard-3-item {
+  top: -182px;
+  left: 194px;
+  border-radius: 50%;
+  border: 90px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 389px;
+  height: 389px;
+}
+.spring-prev-ui-2-icon {
+  position: absolute;
+  top: 137.6px;
+  left: 43.7px;
+  width: 331.3px;
+  height: 192.4px;
+  object-fit: contain;
+  opacity: 0.3;
+}
+.spring-prev-ui-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 363.1px;
+  height: 268.2px;
+  object-fit: contain;
+}
+.spring-prev-ui-2-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 330px;
+}
+.amet-minim-lit,
+.summer-shoes-nike {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.summer-shoes-nike {
+  top: 0;
+  line-height: 56px;
+  font-weight: 500;
+  width: 325px;
+}
+.amet-minim-lit {
+  top: 120px;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  color: var(--light-sub-text-color);
+  width: 295px;
+}
+.group-parent9,
+.summer-shoes-nike-2022-parent {
+  position: absolute;
+  top: 359px;
+  left: 20px;
+  width: 325px;
+  height: 184px;
+}
+.group-parent9 {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 543px;
+}
+.next {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.group-child18,
+.group-child19,
+.group-child20,
+.next-wrapper {
+  position: absolute;
+  top: 0;
+  background-color: var(--light-primary-color);
+}
+.next-wrapper {
+  left: 230px;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-13xl);
+}
+.group-child18,
+.group-child19,
+.group-child20 {
+  left: 32px;
+  border-radius: var(--br-base);
+  width: 35px;
+  height: 5px;
+}
+.group-child19,
+.group-child20 {
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 8px;
+}
+.group-child20 {
+  left: 16px;
+}
+.frame-parent15,
+.rectangle-parent6 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 67px;
+  height: 5px;
+}
+.frame-parent15 {
+  top: 589px;
+  left: 20px;
+  width: 335px;
+  height: 54px;
+  font-size: var(--font-size-lg);
+  color: var(--light-bg-color);
+}
+.group-parent8 {
+  position: absolute;
+  top: 129px;
+  left: 0;
+  width: 375px;
+  height: 643px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-airbnb-cereal-app);
+}
+.onboard-3 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--light-frame-color);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--light-text-color);
+  font-family: var(--font-sf-pro-display);
+}

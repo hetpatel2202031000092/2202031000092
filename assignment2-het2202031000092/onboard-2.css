@@ -1,0 +1,226 @@
+.action5,
+.time5 {
+  position: absolute;
+}
+.time5 {
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.action5 {
+  top: calc(50% - 8px);
+  left: 24.9px;
+  width: 30px;
+  height: 18px;
+}
+.battery-icon5 {
+  position: absolute;
+  top: calc(50% - 5.75px);
+  right: 0;
+  width: 24.5px;
+  height: 11.5px;
+  object-fit: cover;
+}
+.combined-shape-icon5,
+.wi-fi-icon5 {
+  position: relative;
+  width: 17.1px;
+  height: 10.7px;
+}
+.wi-fi-icon5 {
+  width: 15.4px;
+  height: 11.1px;
+}
+.container5 {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 9.5px;
+  width: 67px;
+  height: 11.5px;
+}
+.iphone-xs-bars-status-de5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 44px;
+}
+.onboard-2-child {
+  position: absolute;
+  top: 444px;
+  left: 322px;
+  border-radius: 50%;
+  background-color: var(--light-primary-color);
+  width: 13px;
+  height: 13px;
+}
+.nike-icon2 {
+  position: absolute;
+  top: 193px;
+  left: 20px;
+  border-radius: var(--br-11xs);
+  width: 335px;
+  height: 116px;
+}
+.onboard-2-inner,
+.onboard-2-item {
+  position: absolute;
+  top: 146px;
+  left: 20px;
+  width: 43px;
+  height: 311px;
+}
+.onboard-2-inner {
+  top: -182px;
+  left: 194px;
+  border-radius: 50%;
+  border: 90px solid var(--color-lightsteelblue);
+  box-sizing: border-box;
+  width: 389px;
+  height: 389px;
+}
+.a48fdfedf49d08648513dc1826f8f2-icon {
+  position: absolute;
+  top: 55.5px;
+  left: 19.5px;
+  width: 355.5px;
+  height: 245.5px;
+  object-fit: contain;
+  opacity: 0.3;
+}
+.a48fdfedf49d08648513dc1826f8f2-icon1,
+.ellipse-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 364.9px;
+  height: 248.4px;
+  object-fit: contain;
+}
+.ellipse-icon {
+  top: 144.7px;
+  left: 208.5px;
+  border-radius: 50%;
+  width: 131.8px;
+  height: 125.7px;
+}
+.a48fdfedf49d08648513dc1826f8f2-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 301px;
+}
+.follow-latest-style,
+.there-are-many {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.follow-latest-style {
+  top: 0;
+  line-height: 56px;
+  font-weight: 500;
+  width: 302px;
+}
+.there-are-many {
+  top: 120px;
+  font-size: var(--font-size-xl);
+  line-height: 32px;
+  color: var(--light-sub-text-color);
+  width: 295px;
+}
+.follow-latest-style-shoes-parent,
+.group-parent11 {
+  position: absolute;
+  top: 345px;
+  left: 20px;
+  width: 302px;
+  height: 184px;
+}
+.group-parent11 {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 529px;
+}
+.next1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.group-child21,
+.group-child22,
+.group-child23,
+.next-container {
+  position: absolute;
+  top: 0;
+  background-color: var(--light-primary-color);
+}
+.next-container {
+  left: 230px;
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-13xl);
+}
+.group-child21,
+.group-child22,
+.group-child23 {
+  left: 16px;
+  border-radius: var(--br-base);
+  width: 35px;
+  height: 5px;
+}
+.group-child22,
+.group-child23 {
+  left: 0;
+  background-color: var(--color-aliceblue);
+  width: 8px;
+}
+.group-child23 {
+  left: 59px;
+}
+.frame-parent16,
+.rectangle-parent7 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 67px;
+  height: 5px;
+}
+.frame-parent16 {
+  top: 575px;
+  left: 20px;
+  width: 335px;
+  height: 54px;
+  font-size: var(--font-size-lg);
+  color: var(--light-bg-color);
+}
+.group-parent10 {
+  position: absolute;
+  top: 143px;
+  left: 0;
+  width: 375px;
+  height: 629px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-airbnb-cereal-app);
+}
+.onboard-2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--light-frame-color);
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--light-text-color);
+  font-family: var(--font-sf-pro-display);
+}

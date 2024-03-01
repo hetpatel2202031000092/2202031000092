@@ -1,0 +1,285 @@
+.action7,
+.time7 {
+  position: absolute;
+}
+.time7 {
+  top: calc(50% - 9px);
+  left: 0;
+  letter-spacing: -0.17px;
+  line-height: 18px;
+  font-weight: 600;
+}
+.action7 {
+  top: calc(50% - 8px);
+  left: 24.9px;
+  width: 30px;
+  height: 18px;
+}
+.battery-icon7 {
+  position: absolute;
+  top: calc(50% - 5.75px);
+  right: 0;
+  width: 24.5px;
+  height: 11.5px;
+  object-fit: cover;
+}
+.combined-shape-icon7,
+.wi-fi-icon7 {
+  position: relative;
+  width: 17.1px;
+  height: 10.7px;
+}
+.wi-fi-icon7 {
+  width: 15.4px;
+  height: 11.1px;
+}
+.container7 {
+  position: absolute;
+  top: calc(50% - 5px);
+  right: 9.5px;
+  width: 67px;
+  height: 11.5px;
+}
+.iphone-xs-bars-status-de7 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 44px;
+  text-align: center;
+  font-family: var(--font-sf-pro-display);
+}
+.alisson-becker {
+  position: relative;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+.searchbutton1 {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--light-bg-color);
+  width: 335px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base) var(--padding-38xl) var(--padding-base)
+    var(--padding-sm);
+  box-sizing: border-box;
+}
+.your-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  font-weight: 500;
+}
+.searchbutton-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 335px;
+  height: 80px;
+}
+.alissonbeckergmailcom {
+  position: relative;
+  line-height: 16px;
+  text-transform: lowercase;
+}
+.searchbutton-group {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  width: 335px;
+  height: 80px;
+}
+.eye-icon,
+.frame-child6 {
+  width: 69px;
+  position: relative;
+  height: 6px;
+}
+.eye-icon {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group-parent17 {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--light-bg-color);
+  width: 335px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-xs) var(--padding-sm);
+  box-sizing: border-box;
+}
+.password {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.frame-parent24 {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  width: 335px;
+  height: 80px;
+  font-size: var(--font-size-base);
+}
+.group-parent16,
+.sign-up-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 335px;
+  height: 300px;
+}
+.sign-up-inner {
+  top: 242px;
+  left: 20px;
+  font-size: var(--font-size-sm);
+}
+.sign-in {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.sign-in-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--light-primary-color);
+  width: 335px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-13xl);
+  box-sizing: border-box;
+}
+.frame-child7 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.googlebutton,
+.group-parent18 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.group-parent18 {
+  justify-content: flex-start;
+  gap: 0 8px;
+}
+.googlebutton {
+  position: absolute;
+  top: 84px;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--light-bg-color);
+  width: 335px;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-13xl);
+  box-sizing: border-box;
+  color: var(--light-text-color);
+}
+.frame-parent25 {
+  position: absolute;
+  top: 572px;
+  left: 20px;
+  width: 335px;
+  height: 138px;
+  font-size: var(--font-size-lg);
+  color: var(--light-bg-color);
+}
+.lets-create-account {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  line-height: 24px;
+  display: inline-block;
+  width: 247px;
+}
+.create-account {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  font-size: var(--font-size-9xl);
+  line-height: 36px;
+  text-transform: capitalize;
+  font-weight: 500;
+  color: var(--light-text-color);
+}
+.lets-create-account-together-parent {
+  position: absolute;
+  top: 128px;
+  left: 64px;
+  width: 247px;
+  height: 64px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--light-sub-text-color);
+}
+.already-have-an,
+.sign-in1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+.sign-in1 {
+  left: 149px;
+  font-weight: 500;
+  color: var(--light-text-color);
+}
+.already-have-an-account-parent {
+  position: absolute;
+  top: 746px;
+  left: 94px;
+  width: 186px;
+  height: 16px;
+  font-size: var(--font-size-xs);
+  color: var(--light-sub-text-color);
+}
+.menuicon4 {
+  position: absolute;
+  top: 52px;
+  left: 20px;
+  border-radius: var(--br-21xl);
+  background-color: var(--light-bg-color);
+  width: 44px;
+  height: 44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini);
+  box-sizing: border-box;
+}
+.sign-up {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--light-frame-color);
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--light-text-color);
+  font-family: var(--font-airbnb-cereal-app);
+}
